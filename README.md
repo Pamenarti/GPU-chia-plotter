@@ -3,8 +3,6 @@ I'm trying to do a GPU twist. It's still in testing. Updates will be made from t
 
 So you'll have to wait a bit.
 
-Note: Copied from the "madMAx43v3r" repository.
-
 ### contact :  
 ~Paro, (c) 2019  (discord id : Paro#7842)
 
