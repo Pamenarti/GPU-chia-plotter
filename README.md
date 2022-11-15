@@ -1,5 +1,17 @@
-## It's a project we just started. I'm trying to do a GPU twist. It's still in testing. Updates will be made from time to time.
+# It's a project we just started. 
+I'm trying to do a GPU twist. It's still in testing. Updates will be made from time to time.
 
+So you'll have to wait a bit.
+
+Note: Copied from the "madMAx43v3r" repository.
+
+### contact :  
+~Paro, (c) 2019  (discord id : Paro#7842)
+
+### old information:
+<details>
+  <summary> Click to expand</summary>
+  
 # chia-plotter (pipelined multi-threaded)
 
 This is a new implementation of a chia plotter which is designed as a processing pipeline,
@@ -79,8 +91,7 @@ BTC: 15GSE5ymStxXMvJ58hyosEVm4FXFxUyJZg
 
 On a dual Xeon® E5-2650v2<span>@</span>2.60GHz R720 with 256GB RAM and a 3x800GB SATA SSD RAID0, using a 110G tmpfs for `<tmpdir2>`:
 
-<details>
-  <summary>Click to expand</summary>
+
   
   ```
   Number of Threads: 16
@@ -130,7 +141,7 @@ On a dual Xeon® E5-2650v2<span>@</span>2.60GHz R720 with 256GB RAM and a 3x800G
   Phase 4 took 84.6697 sec, final plot size is 108828428322 bytes
   Total plot creation time was 2530.76 sec 
   ```
-</details>
+
 
 ## How to Verify
 
@@ -378,7 +389,7 @@ https://github.com/stotiks/chia-plotter/releases
 
   ### Building a Docker container
   Make sure your submodules are up-to-date by running `git submodule update --init`, then simply build with `docker build .`
-</details>
+
 
 ---
 
@@ -386,4 +397,4 @@ https://github.com/stotiks/chia-plotter/releases
 
 - Needs at least cmake 3.14 (because of bls-signatures)
 
-[How to install latest cmake on Ubuntu 18.04](https://askubuntu.com/questions/1203635/installing-latest-cmake-on-ubuntu-18-04-3-lts-run-via-wsl-openssl-error)
+[How to install latest cmake on Ubuntu 18.04](https://askubuntu.com/questions/1203635/installing-latest-cmake-on-ubuntu-18-04-3-lts-run-via-wsl-openssl-error)</details></details>
